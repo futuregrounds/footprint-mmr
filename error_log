@@ -1,0 +1,432 @@
+[04-May-2013 02:31:40 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(83): grocery_CRUD->render()
+#3 [internal function]: Examples->customers_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 02:47:08 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(99): grocery_CRUD->render()
+#3 [internal function]: Examples->orders_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 02:47:14 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(113): grocery_CRUD->render()
+#3 [internal function]: Examples->products_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 04:14:05 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(113): grocery_CRUD->render()
+#3 [internal function]: Examples->products_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 05:15:01 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(83): grocery_CRUD->render()
+#3 [internal function]: Examples->customers_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 05:15:04 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(99): grocery_CRUD->render()
+#3 [internal function]: Examples->orders_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 05:15:06 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(113): grocery_CRUD->render()
+#3 [internal function]: Examples->products_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 05:36:42 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(83): grocery_CRUD->render()
+#3 [internal function]: Examples->customers_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 05:36:44 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(99): grocery_CRUD->render()
+#3 [internal function]: Examples->orders_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 05:36:47 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(113): grocery_CRUD->render()
+#3 [internal function]: Examples->products_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 05:36:54 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(134): grocery_CRUD->render()
+#3 [internal function]: Examples->film_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 05:40:25 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 05:40:32 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 05:40:41 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 05:40:44 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 05:40:46 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 05:40:53 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 12:05:09 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 12:05:15 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 12:05:20 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 12:05:22 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 12:05:26 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 12:05:30 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 12:05:40 America/Denver] PHP Fatal error:  Cannot redeclare Examples::orders_management() in /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php on line 108
+[04-May-2013 12:25:49 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/main.php(43): grocery_CRUD->render()
+#3 [internal function]: Main->trucks()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 12:26:14 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(99): grocery_CRUD->render()
+#3 [internal function]: Examples->orders_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 12:26:15 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(113): grocery_CRUD->render()
+#3 [internal function]: Examples->products_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 12:26:17 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(134): grocery_CRUD->render()
+#3 [internal function]: Examples->film_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[04-May-2013 16:19:18 America/Denver] PHP Fatal error:  Call to a member function public_members() on a non-object in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 145
+[04-May-2013 16:25:02 America/Denver] PHP Fatal error:  Call to a member function public_members() on a non-object in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 145
+[04-May-2013 16:27:04 America/Denver] PHP Fatal error:  Call to a member function public_members() on a non-object in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 145
+[04-May-2013 16:27:25 America/Denver] PHP Fatal error:  Call to a member function public_employees() on a non-object in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 145
+[04-May-2013 18:33:25 America/Denver] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'multipleDiv.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 15
+[04-May-2013 18:33:34 America/Denver] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'multipleDiv.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 15
+[04-May-2013 18:34:04 America/Denver] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 6
+[04-May-2013 18:37:36 America/Denver] PHP Warning:  require_once(./include/membersite_config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/sampo2/public_html/nixpix/footprint/index.php on line 2
+[04-May-2013 18:37:36 America/Denver] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './include/membersite_config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sampo2/public_html/nixpix/footprint/index.php on line 2
+[04-May-2013 18:38:52 America/Denver] PHP Warning:  require_once(multipleDiv.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/sampo2/public_html/nixpix/footprint/index.php on line 3
+[04-May-2013 18:38:52 America/Denver] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'multipleDiv.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sampo2/public_html/nixpix/footprint/index.php on line 3
+[04-May-2013 18:41:11 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:41:11 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:41:11 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:41:14 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:41:14 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:41:14 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:41:17 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:41:19 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:41:19 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:41:19 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:42:20 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:42:20 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:42:20 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:42:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:42:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:42:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:42:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:42:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:42:21 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:44:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:44:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:44:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:44:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 74
+[04-May-2013 18:44:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 53
+[04-May-2013 18:44:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 111
+[04-May-2013 18:44:39 America/Denver] PHP Fatal error:  Class 'Multiplediv' not found in /home/sampo2/public_html/nixpix/footprint/index.php on line 3
+[04-May-2013 18:44:47 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:44:47 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:44:47 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:44:47 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:44:47 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:44:47 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:45:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:45:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:45:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:45:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:45:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:45:03 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:45:04 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:45:04 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:45:04 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:45:04 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:45:04 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:45:04 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:45:05 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:45:05 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:45:05 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:46:08 America/Denver] PHP Fatal error:  Call to undefined method Multiplediv::getGroupedMembers() in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 50
+[04-May-2013 18:46:57 America/Denver] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_ENCAPSED_AND_WHITESPACE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 149
+[04-May-2013 18:50:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:50:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:50:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:50:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:50:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:50:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:50:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:50:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:50:40 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:50:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:51:42 America/Denver] PHP Fatal error:  Class 'Multiplediv' not found in /home/sampo2/public_html/nixpix/footprint/index.php on line 3
+[04-May-2013 18:52:24 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:52:24 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:52:24 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:52:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:52:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:52:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:52:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:52:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:52:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:52:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:52:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:52:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:52:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:52:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:52:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:52:28 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 110
+[04-May-2013 18:55:01 America/Denver] PHP Fatal error:  Call to undefined method Multiplediv::public_members() in /home/sampo2/public_html/nixpix/footprint/index.php on line 8
+[04-May-2013 18:55:54 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:55:54 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:55:54 America/Denver] PHP Fatal error:  Call to undefined method Multiplediv::groupedEmployees() in /home/sampo2/public_html/nixpix/footprint/index.php on line 9
+[04-May-2013 18:57:34 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:57:34 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:57:34 America/Denver] PHP Fatal error:  Call to undefined method Multiplediv::groupedEmployees() in /home/sampo2/public_html/nixpix/footprint/index.php on line 9
+[04-May-2013 18:57:37 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 73
+[04-May-2013 18:57:37 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sampo2/public_html/nixpix/footprint/multipleDiv.inc.php on line 52
+[04-May-2013 18:57:37 America/Denver] PHP Fatal error:  Call to undefined method Multiplediv::groupedEmployees() in /home/sampo2/public_html/nixpix/footprint/index.php on line 9
+[04-May-2013 19:47:47 America/Denver] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 61
+[04-May-2013 19:48:17 America/Denver] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 61
+[04-May-2013 19:50:09 America/Denver] PHP Parse error:  syntax error, unexpected T_STRING in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 70
+[04-May-2013 19:50:30 America/Denver] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 70
+[04-May-2013 19:56:35 America/Denver] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 79
+[04-May-2013 19:59:56 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 80
+[04-May-2013 20:00:47 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 77
+[04-May-2013 20:00:51 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 77
+[04-May-2013 20:03:33 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 80
+[04-May-2013 20:07:29 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home/sampo2/public_html/nixpix/footprint/application/views/example.php on line 80
+[06-May-2013 14:42:36 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->film_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[06-May-2013 15:25:48 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->film_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[06-May-2013 15:30:44 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->film_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[06-May-2013 15:30:56 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->film_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[06-May-2013 15:31:26 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->film_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[06-May-2013 15:34:31 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->films_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[06-May-2013 15:42:54 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->films_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[06-May-2013 15:43:00 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->films_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[06-May-2013 15:43:20 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->films_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[06-May-2013 15:43:27 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->films_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[06-May-2013 15:43:45 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(120): grocery_CRUD->render()
+#3 [internal function]: Examples->films_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
+[16-May-2013 15:25:15 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php:4349
+Stack trace:
+#0 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3875): grocery_CRUD->get_table()
+#1 /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php(3891): grocery_CRUD->pre_render()
+#2 /home/sampo2/public_html/nixpix/footprint/application/controllers/examples.php(99): grocery_CRUD->render()
+#3 [internal function]: Examples->groups_management()
+#4 /home/sampo2/public_html/nixpix/footprint/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/sampo2/public_html/nixpix/footprint/index.php(202): require_once('/home/sampo2/pu...')
+#6 {main}
+  thrown in /home/sampo2/public_html/nixpix/footprint/application/libraries/grocery_crud.php on line 4349
